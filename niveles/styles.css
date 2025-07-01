@@ -25,13 +25,13 @@ body {
   margin-top: 20px;
   width: 300px;
   height: 300px;
-  object-fit: cover;        /* Recorta bien si la imagen no es cuadrada */
-  border-radius: 50%;       /* Hace la imagen circular */
+  object-fit: cover;        
+  border-radius: 50%;       
   border: 3px solid #00ffff;
   box-shadow: 0 0 20px #00ffff;
 }
 
-  /* Separadores */
+ 
   body::before, body::after {
     content: "✦✦✦✦✦";
     display: block;

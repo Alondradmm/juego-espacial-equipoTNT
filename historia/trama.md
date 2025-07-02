@@ -18,179 +18,57 @@
     border-left: 5px solid #00bcd4;
     border-radius: 8px;
   }
-  .enemy {
-    background-color: #261e3c;
-    border: 1px solid #6cf0ff;
-    padding: 10px;
-    margin-top: 10px;
-    border-radius: 5px;
-  }
-  .store {
-    background-color: #0f1b2f;
-    padding: 10px;
-    border-left: 4px solid #ffc107;
-    border-radius: 6px;
-    margin-bottom: 10px;
-  }
-  code {
-    background: #1f2a44;
-    padding: 2px 6px;
-    border-radius: 4px;
-    color: #76f9ff;
-  }
 </style>
-
-
-
-
-
 
 # 🚀 Guion del Juego: 
 
 ---
 
-## 🪐 Inicio
+## 🪐 Inicio: El Último Aliento de la Galaxia
 
-El universo se encuentra al borde de la extinción, los planetas están siendo conquistados por un ejército de naves invasoras de una raza alienígena desconocida. Tu misión como piloto de una nave de élite será destruir las naves enemigas para evitar que el mal se apodere de los planetas y devolver la paz al universo.
+El vasto universo está sumido en una oscuridad creciente. Planetas enteros han caído bajo la sombra de una fuerza alienígena despiadada que avanza sin pausa, dejando destrucción y silencio a su paso. Las estrellas parecen apagarse una a una, y con ellas, la esperanza de vida en millones de mundos.
 
-Cada planeta tiene una estructura defensiva única, con diferentes tipos de enemigos y obstáculos a superar. Además, las habilidades especiales de tus naves serán clave para enfrentar las oleadas de enemigos que vendrán.
+En medio de este caos, un pequeño grupo de pilotos de élite se levanta como la última resistencia. Tú eres uno de ellos. Tu nave, un prodigio de tecnología y valentía, es la última barrera entre la extinción total y la posibilidad de un nuevo amanecer. Cada misión es un riesgo, cada batalla, una lucha por salvar no solo tu vida, sino la de toda la galaxia.
 
----
-
-# 🎮 Guion de Niveles
-
-## Nivel 1 - Planeta Z-34
-
-**Inicio:**  
-El sol se oculta en el horizonte de Z-34, y el ejército invasor está aterrizando en la capital del planeta. Tu nave es la última esperanza. El comandante te da las coordenadas para comenzar la misión.
-
-**Comandante:**  
-_"Tu misión es simple, pero peligrosa. Destruye todas las naves enemigas y evita que se apoderen de los recursos planetarios. Usa tus habilidades especiales sabiamente y nunca olvides que la clave está en la estrategia."_
-
-**Objetivo:**  
-Destruir la oleada inicial de naves y defender la capital.
+El tiempo corre en tu contra. Las comunicaciones de emergencia de los planetas aliados llegan con desesperación, y las órdenes son claras: no rendirse jamás.
 
 ---
 
-## Nivel 2 - Planeta X-7
+# 🎮 Niveles
 
-Al llegar a X-7, te encuentras con un campo de asteroides que dificulta la navegación. Las naves enemigas usan estos asteroides como escudo. Necesitarás maniobrar con destreza para superarlos y continuar con la misión.
+## Nivel 1 - Planeta Z-34: Fuego en el Horizonte
 
-**Comandante:**  
-_"X-7 está lleno de peligros naturales. No solo las naves enemigas, los asteroides también te acechan. ¡Asegúrate de que tu nave esté preparada para esta misión!"_
+El sol comienza a ocultarse tras el horizonte de Z-34, pero no hay paz en su ocaso. Las siluetas de naves enemigas cortan el cielo, desplomándose hacia la capital como un enjambre de oscuridad imparable.
 
-**Objetivo:**  
-Evitar los asteroides y eliminar las naves enemigas en el proceso.
+Los habitantes del planeta, desconcertados y aterrorizados, miran hacia arriba esperando un milagro. Y ese milagro eres tú.
 
----
+El comandante te llama por última vez antes del descenso:  
+_"Esta ciudad fue un faro de civilización y esperanza, y ahora es un campo de batalla. Las calles serán tuyas para defender. No es solo una misión; es una promesa para aquellos que aún creen en un futuro."_
 
-## Nivel 3 - Base Enemiga
-
-Después de haber destruido las fuerzas de invasión en los planetas cercanos, te enfrentas a la base principal enemiga. Esta base está equipada con escudos impenetrables y cañones láser de alta potencia.
-
-**Comandante:**  
-_"Este es el centro de operaciones de los invasores. Tienes que destruir sus sistemas de defensa y el núcleo de energía. ¡No hay margen de error!"_
-
-**Objetivo:**  
-Destruir el núcleo de energía de la base enemiga mientras esquivas los disparos láser y enfrentas una serie de naves élite.
+Mientras avanzas, el estruendo de las explosiones y el crujir de estructuras en ruinas son la banda sonora de un mundo que se resiste a caer. Debes hacer más que disparar; debes ser la chispa que mantenga encendida la llama de la resistencia.
 
 ---
 
-# 👾 Fichas de Enemigos
+## Nivel 2 - Planeta X-7: El Laberinto de Sombras y Rocas
 
-## Nivel 1 - Planeta Z-34
+El vacío negro del espacio te recibe en X-7, un planeta donde la muerte acecha en forma de asteroides gigantescos que giran con lentitud amenazante. La oscuridad parece más densa aquí, cargada de secretos y peligros ocultos.
 
-### Dron Explorador
-- **Tipo:** Ligero  
-- **Velocidad:** Alta  
-- **Ataque:** Ráfagas simples  
-- **Debilidad:** Baja defensa  
+No solo la naturaleza se vuelve tu enemigo, sino que el adversario ha aprendido a usar el terreno a su favor, desplegando tácticas furtivas y ataques sorpresa. Cada roca podría ocultar una emboscada, cada sombra una amenaza letal.
 
-### Caza Razer
-- **Tipo:** Mediano  
-- **Velocidad:** Media  
-- **Ataque:** Doble disparo frontal  
-- **Habilidad:** Esquiva automática cada 6 segundos  
+El comandante advierte con voz firme:  
+_"X-7 no es un campo de batalla ordinario. Es un laberinto donde la paciencia y la precisión valen más que la velocidad. Tu habilidad para leer el terreno y anticipar movimientos será tu única esperanza de salir con vida."_
+
+Tu respiración se acelera con cada maniobra evasiva, mientras la tensión crece y el destino de la galaxia depende de tu temple en este infierno de roca y fuego.
 
 ---
 
-## Nivel 2 - Planeta X-7
+## Nivel 3 - Base Enemiga: La Fortaleza del Fin
 
-### Mina Asteroide
-- **Tipo:** Estático / Trampa  
-- **Ataque:** Explota al contacto  
-- **Estrategia:** Evadir o destruir a distancia  
+Ante ti se alza la pesadilla final: la base enemiga, un coloso flotante que parece devorar la luz misma del espacio. Esta fortaleza alberga el núcleo que impulsa toda la maquinaria de guerra alienígena y, mientras ese núcleo siga activo, la galaxia está condenada.
 
-### Caza de Emboscada
-- **Tipo:** Ligero  
-- **Velocidad:** Muy alta  
-- **Ataque:** Cortas ráfagas desde ángulos inesperados  
-- **Habilidad:** Aparece desde puntos ciegos  
+El comandante transmite con una mezcla de orgullo y miedo:  
+_"Aquí se decidirá el futuro. La base es un bastión casi impenetrable, un corazón oscuro que bombea destrucción. No hay espacio para el error ni para la duda. Esta es tu misión, la que define todo lo que hemos luchado."_
+
+Cada instante está cargado de peligro. Los cañones láser, las torres de defensa y las naves élite forman una tormenta implacable que solo el piloto más valiente y habilidoso puede atravesar. La adrenalina bombea en tus venas mientras avanzas, sabiendo que en tus manos está la última esperanza de millones.
 
 ---
-
-## Nivel 3 - Base Enemiga
-
-### Torre Láser
-- **Tipo:** Estático  
-- **Ataque:** Láser continuo con rastreo  
-- **Defensa:** Alta resistencia  
-
-### Nave Escudo
-- **Tipo:** Pesado  
-- **Ataque:** Cañón de plasma  
-- **Habilidad:** Regenera escudo cada 10 segundos  
-
----
-
-# 🚀 Mecánicas de Nave
-
-## ShipX0 (Predeterminado) - Nave LVL. 1
-- **Velocidad Movimiento:** 40  
-- **Frecuencia Disparo:** 30  
-- **Daño:** 40
-
-## TnTShip - Nave LVL. 2
-- **Velocidad Movimiento:** 30  
-- **Frecuencia Disparo:** 70  
-- **Daño:** 50
-
-## ShipTP - Nave LVL. 3
-- **Velocidad Movimiento:** 90  
-- **Frecuencia Disparo:** 30  
-- **Daño:** 40
-
----
-
-# 🛍️ Tienda Galáctica de Mejoras
-
-### Mejoras Disponibles
-
-- **🛡️ Escudo Energético**  
-  Bloquea 1 golpe completo cada 15 segundos.  
-  `Costo: 100 puntos`
-
-- **⚡ Potenciador de Disparo**  
-  Aumenta la frecuencia de disparo un 30% por 20 segundos.  
-  `Costo: 150 puntos`
-
-- **💣 Bomba Estelar**  
-  Destruye todos los enemigos visibles en pantalla.  
-  `Costo: 200 puntos`
-
-- **🚀 Motor Cuántico**  
-  Aumenta velocidad de movimiento +25% por 10 segundos.  
-  `Costo: 120 puntos`
-
-- **🪙 Reparación Nanotecnológica**  
-  Recupera el 50% de la salud de tu nave.  
-  `Costo: 130 puntos`
-
----
-
-# ✨ Power-Ups en el Campo de Batalla
-
-- **🔋 Energía de Plasma** → recarga tu habilidad especial  
-- **🔰 Escudo Temporal** → invulnerabilidad por 5 segundos  
-- **💥 Disparo Triple** → proyectiles adicionales durante 10 segundos  
-- **🎯 Auto-Targeting** → disparos guiados por 8 segundos  

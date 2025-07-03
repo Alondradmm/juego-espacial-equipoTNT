@@ -70,6 +70,7 @@
 <p>
     Vive el auténtico caos del primer evento de Interes-telar, en donde hay una mecánica experimental de <b> TNT 🧨</b> en el que las naves TnTShip han sido cargadas con municiones de explosivos que pueden causar daño de radio de 10mts.
     <div class="tag">+30% Daño por TNT</div>
+    <div class="tag">-20% Velocidad por carda de TNT</div>
 </p>
 
 <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap" rel="stylesheet">

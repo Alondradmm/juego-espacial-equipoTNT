@@ -64,12 +64,14 @@
     <br>
 </div>
 
-<h2> 🧨 TNT Event</h2>
+<h2> 🌌🔫 Star Wars Event</h2>
 
-<h3>v1.0.0</h3>
+<h3>v2.0.0</h3>
 <p>
-    Vive el auténtico caos del primer evento de Interes-telar, en donde hay una mecánica experimental de <b> TNT 🧨</b> en el que las naves TnTShip han sido cargadas con municiones de explosivos que pueden causar daño de radio de 10mts.
-    <div class="tag">+30% Daño por TNT</div>
+    Llegaron los laseres!<br>
+    Las naves han sido equipadas con armamento de laser, y perteneces al ejercito <b style="color:cyan">Jedi</b>, tendrás que derrotar al <b style="color:red">Lado Oscuro</b>. <br><br>
+    Mucha suerte y que la fuerza te acompañe...
+    <div class="tag">+50% Velocidad de Disparo </div>
 </p>
 
 <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap" rel="stylesheet">

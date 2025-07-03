@@ -79,39 +79,70 @@
 ###
 
 <br>
-<h2>
-👾Enemigos:🛸
+<h2 class="Bad">
+👾Enemigos:👾
 </h2>
 
 ###
 
-<h3 align="left">E1 - Naves nvl1</h3>
-<p align="left">
-🎲 Fun fact: ...<br>
-📚 I'm currently learning ...<br>
-🎯 Goals: ...<br>
-✨ Creating bugs since ...
-</p>
+<h3 class="Bad" align="left">E1 - Naves nvl1🛸</h3>
+<div class="card-bad">
+    <div class="descripcion">
+        <p class="descripcion-txt">
+            <b class="b-bad">Nombre :</b> NX-01 Drone
+            <br><b class="b-bad">Disparo principal:</b> Láser débil (3 puntos de daño por impacto).
+            <br><b class="b-bad">Frecuencia:</b>Dispara 1 proyectil cada 2 segundos (en línea recta).
+            <br><b class="b-bad">Movimiento base:</b>
+            Rápido (7/10)
+        </p>
+    </div>
+<div class="perfil-bad1">
+
+![Alex-T.p](/personajes/img/peon.jpg)
+
+</div>
+</div>
 
 ###
 
-<h3 align="left">E2 - Naves nvl2</h3>
-<p align="left">
-🎲 Fun fact: ...<br>
-📚 I'm currently learning ...<br>
-🎯 Goals: ...<br>
-✨ Creating bugs since ...
-</p>
+<h3 class="Bad" align="left">E2 - Naves nvl2🛸</h3>
+<div class="card-bad">
+    <div class="descripcion">
+        <p class="descripcion-txt">
+            <b class="b-bad">Nombre :</b> KSS-Eclipse
+            <br><b class="b-bad">Disparo principal:</b> Disparos dobles (5 daño c/u) en abanico
+            <br><b class="b-bad">Frecuencia:</b> 1 cada 5 segundos (12 daño, explosión en área pequeña)
+            <br><b class="b-bad">Movimiento base:</b>
+            Medio (5/10)
+        </p>
+    </div>
+<div class="perfil-bad">
+
+![Alex-T.p](/personajes/img/Boss.jpg)
+
+</div>
+</div>
 
 ###
 
-<h3 align="left">E2 - Bos final</h3>
-<p align="left">
-🎲 Fun fact: ...<br>
-📚 I'm currently learning ...<br>
-🎯 Goals: ...<br>
-✨ Creating bugs since ...
-</p>
+<h3 class="Bad" align="left">E2 - Bos final☠️</h3>
+<div class="card-bad">
+    <div class="descripcion">
+        <p class="descripcion-txt">
+            <b class="b-bad">Nombre :</b> CR-55 Sentinel X
+            <br><b class="b-bad">Disparo principal:</b> 8 disparos en estrella (5 daño c/u)
+            <br><b class="b-bad">Frecuencia:</b> Torretas y proyectiles cada 2 segundos
+            <br><b class="b-bad">Movimiento base:</b>
+            2/10
+            <br><b class="b-bad">Disparo Especial:</b> Super rayo lazer de plasma
+        </p>
+    </div>
+<div class="perfil-bad">
+
+![Alex-T.p](/personajes/img/BossFinal.jpg)
+
+</div>
+</div>
 
 ###
 
@@ -127,6 +158,9 @@
     }
     b{
         color:#00FFE7;
+    }
+    .b-bad{
+        color:#FF0000;
     }
     .descripcion-txt{
         padding-top: 10px;
@@ -152,5 +186,30 @@
     .perfil{
     padding: 10px;
     width: 700px;
-}
+    }
+
+    .Bad{
+        color:Red;
+    }
+    .card-bad{
+    background: #0F0F1A;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 
+        0 0 5px #ffffff, /* Sombra base (brillo suave) */
+        0 0 0px #FF0000, /* Segunda capa (más difuminada) */
+        0 0 5px #FF0000, /* Tercera capa (efecto de resplandor externo) */
+        inset 0 0 5px #FF0000; /* Sombra interna (opcional) */
+    width: 650px;
+    }
+    .perfil-bad{
+    padding: 10px;
+    width: 300px;
+    }
+    .perfil-bad1{
+    padding: 10px;
+    width: 200px;
+    }
 </style>

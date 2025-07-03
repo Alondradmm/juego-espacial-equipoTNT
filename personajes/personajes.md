@@ -26,7 +26,7 @@
     </div>
 <div class="perfil">
 
-![mando](/personajes/img/Viktor_Matrix.jpg)
+![mando](../personajes/img/Viktor_Matrix.jpg)
 </div>
 
 </div>
@@ -48,7 +48,7 @@
     </div>
 <div class="perfil">
 
-![Alex-T.p](/personajes/img/Jax-Orion.jpg)
+![Alex-T.p](../personajes/img/Jax-Orion.jpg)
 
 </div>
 </div>
@@ -70,7 +70,7 @@
     </div>
 <div class="perfil">
 
-![Alex-T.p](/personajes/img/Alex_TP.jpg)
+![Alex-T.p](../personajes/img/Alex_TP.jpg)
 
 </div>
 </div>
@@ -98,7 +98,7 @@
     </div>
 <div class="perfil-bad1">
 
-![Alex-T.p](/personajes/img/peon.jpg)
+![Alex-T.p](../personajes/img/peon.jpg)
 
 </div>
 </div>
@@ -118,7 +118,7 @@
     </div>
 <div class="perfil-bad">
 
-![Alex-T.p](/personajes/img/Boss.jpg)
+![Alex-T.p](../personajes/img/Boss.jpg)
 
 </div>
 </div>
@@ -139,7 +139,7 @@
     </div>
 <div class="perfil-bad">
 
-![Alex-T.p](/personajes/img/BossFinal.jpg)
+![Alex-T.p](../personajes/img/BossFinal.jpg)
 
 </div>
 </div>

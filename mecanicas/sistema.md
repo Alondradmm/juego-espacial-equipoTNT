@@ -64,7 +64,7 @@
     <br>
 </div>
 
-<h2> 🧨 TNT Event</h2>
+<h2> 🧨 TNT Eventt</h2>
 
 <h3>v1.0.0</h3>
 <p>
